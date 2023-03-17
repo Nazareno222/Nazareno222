@@ -3,8 +3,9 @@
 <section></section>
 hola soy <h1>Nazareno</h1>
 
-Lenguage de Programción 
-<br>PHP
+LenguageS de Programción 
+<br>PHP<br>
+PYTHON basicó
 <!--
 **Nazareno222/Nazareno222** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
